@@ -24,7 +24,7 @@
 
 <!-- Social Media Links (Animated Hover via Skillicons) -->
 <div align="center">
-  <a href="https://www.linkedin.com/in/bishwa-prakash-rout-727833365/">
+  <a href="https://www.linkedin.com/in/akash-kumar-swain-40b3a3337">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="50" />
   </a>
   <a href="https://github.com/bishwaprakashrout2007-lang">
