@@ -1,6 +1,6 @@
 <!-- Header Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Hello%20Connections!&fontSize=70&animation=fadeIn&fontAlignY=38&desc=I%27m%20Bishwa%20Prakash%20Rout&descSize=25&descAlignY=60&descAlign=50" alt="Header" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Hello%20Connections!&fontSize=70&animation=fadeIn&fontAlignY=38&desc=I%27m%20Akash%20Kumar%20Swain&descSize=25&descAlignY=60&descAlign=50" alt="Header" width="100%"/>
 </div>
 
 <!-- Intro Section -->
