@@ -10,15 +10,15 @@
 </h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1500&center=true&width=550&color=36BCF7&lines=BISHWA+PRAKASH+ROUT;FULL+STACK+DEVELOPER;WEB+%26+APP+DEVELOPER;REACT+%2F+PYTHON" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1500&center=true&width=550&color=36BCF7&lines=AKASH+KUMAR+SWAIN;FULL+STACK+DEVELOPER;WEB+%26+APP+DEVELOPER;REACT+%2F+PYTHON" alt="Typing SVG" />
 </div>
 
 <p align="center">
-  <a href="https://github.com/bishwaprakashrout2007-lang">
+  <a href="https://github.com/akashswain3008-alt/akashswain3008-alt/blob/main/README.md?plain=1">
     <img src="https://komarev.com/ghpvc/?username=bishwaprakashrout2007-lang&label=Profile%20views&style=for-the-badge&color=blue" alt="Profile Views" />
   </a>
-  <a href="https://github.com/bishwaprakashrout2007-lang">
-    <img src="https://img.shields.io/github/followers/bishwaprakashrout2007-lang?style=for-the-badge&color=green" alt="Followers"/>
+  <a href="https://github.com/akashswain3008-alt/akashswain3008-alt/blob/main/README.md?plain=1">
+    <img src="https://img.shields.io/github/followers/akashswain3008-alt?style=for-the-badge&color=green" alt="Followers"/>
   </a>
 </p>
 
@@ -27,10 +27,10 @@
   <a href="https://www.linkedin.com/in/akash-kumar-swain-40b3a3337">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="50" />
   </a>
-  <a href="https://github.com/bishwaprakashrout2007-lang">
+  <a href="https://github.com/akashswain3008-alt/akashswain3008-alt/blob/main/README.md?plain=1">
     <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="50" />
   </a>
-  <a href="mailto:bishwaprakashrout2007@gmail.com">
+  <a href="mailto:akashswain3008@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Email" width="50" />
   </a>
 </div>
@@ -49,7 +49,9 @@
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/212257468-1e47fb36-c0c1-4b13-aec0-b18cb6d221c9.gif" width="300" />
 
-I am a skilled **Python Developer  , App Developer & AI Explorer** with a strong technical foundation in **Python, HTML, CSS, Django, Flask**. Beyond building user interfaces, I have expanded my coding toolkit with **Python** and have solid expertise in **Python and Kotlin for App Development**. I possess a natural curiosity that drives me to always seek out new things to learn.
+I am a software developer with knowledge in Python development, web development, and app development. I have a strong interest in creating innovative and user-friendly applications that solve real-world problems. My skills include programming in Python, designing responsive websites, and developing basic mobile applications. I am familiar with technologies such as HTML, CSS, JavaScript, and database management, which help me build complete projects efficiently.
+
+I enjoy learning new technologies and improving my coding skills through practice and project development. I have good problem-solving abilities and can work well both independently and in a team environment. My goal is to build a successful career in the software industry by gaining practical experience and contributing to meaningful projects. I am always eager to explore new ideas, adapt to modern technologies, and enhance my technical knowledge to become a professional software engineer in the future.
 
 <table>
   <tr>
@@ -57,8 +59,8 @@ I am a skilled **Python Developer  , App Developer & AI Explorer** with a strong
       <ul>
         <li><img src="https://img.icons8.com/fluency/48/000000/code.png" width="20" /> I'm currently working on my portfolio and Python projects.</li>
         <li><img src="https://img.icons8.com/fluency/48/000000/learning.png" width="20" /> I'm currently expanding my knowledge in Machine Learning technologies and new frameworks.</li>
-        <li><img src="https://img.icons8.com/fluency/48/000000/chat.png" width="20" /> Ask me about <b>Python, Java, Kotlin, and App Development</b>.</li>
-        <li><img src="https://img.icons8.com/fluency/48/000000/mail.png" width="20" /> Reach me at: <b><a href="mailto:bishwaprakashrout2007@gmail.com">bishwaprakashrout2007@gmail.com</a></b></li>
+        <li><img src="https://img.icons8.com/fluency/48/000000/chat.png" width="20" /> Ask me about <b>Python, Java,  and App Development</b>.</li>
+        <li><img src="https://img.icons8.com/fluency/48/000000/mail.png" width="20" /> Reach me at: <b><a href="mailto:akashswain3008@gmail.com">akashswain3008@gmail.com</a></b></li>
         <li><img src="https://img.icons8.com/fluency/48/000000/lightning-bolt.png" width="20" /> Fun Fact: I stay active and energized through my love for sports!</li>
         <li><img src="https://img.icons8.com/fluency/48/000000/domain.png" width="20" /> Portfolio: <b><a href=""></a></b></li>
       </ul>
@@ -136,22 +138,22 @@ I am a skilled **Python Developer  , App Developer & AI Explorer** with a strong
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bishwaprakashrout2007-lang&theme=dracula&no-frame=true&no-bg=true&margin-w=15" />
+  <img src="https://github.com/akashswain3008-alt/akashswain3008-alt/edit/main/README.md&theme=dracula&no-frame=true&no-bg=true&margin-w=15" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bishwaprakashrout2007-lang&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=bishwaprakashrout2007-lang&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github.com/akashswain3008-alt/akashswain3008-alt/edit/main/README.md&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github.com/akashswain3008-alt/akashswain3008-alt/edit/main/README.md&theme=tokyonight&hide_border=true" width="48%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bishwaprakashrout2007-lang&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="48%" />
+  <img src="https://github.com/akashswain3008-alt/akashswain3008-alt/edit/main/README.md&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="48%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bishwaprakashrout2007-lang&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=16161e&area=true&hide_border=true" width="100%" />
+  <img src="https://github.com/akashswain3008-alt/akashswain3008-alt/edit/main/README.md&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=16161e&area=true&hide_border=true" width="100%" />
 </div>
 
 <br/>
@@ -174,6 +176,6 @@ I am a skilled **Python Developer  , App Developer & AI Explorer** with a strong
 <!-- Footer -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/master/assets/Cool-Ninja.gif" width="150" />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&center=true&width=400&color=FF3366&lines=Made+with+❤️+by+Bishwa+Prakash+Rout" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&center=true&width=400&color=FF3366&lines=Made+with+❤️+by+Akash+Kumar+Swain" />
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=footer" width="100%"/>
 </div>
