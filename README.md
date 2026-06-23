@@ -15,7 +15,7 @@
 
 <p align="center">
   <a href="https://github.com/akashswain3008-alt/akashswain3008-alt/blob/main/README.md?plain=1">
-    <img src="https://komarev.com/ghpvc/?username=bishwaprakashrout2007-lang&label=Profile%20views&style=for-the-badge&color=blue" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=akashswain3008-alt&label=Profile%20views&style=for-the-badge&color=blue" alt="Profile Views" />
   </a>
   <a href="https://github.com/akashswain3008-alt/akashswain3008-alt/blob/main/README.md?plain=1">
     <img src="https://img.shields.io/github/followers/akashswain3008-alt?style=for-the-badge&color=green" alt="Followers"/>
